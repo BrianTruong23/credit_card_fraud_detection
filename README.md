@@ -8,6 +8,9 @@ This project focuses on Credit Card Fraud Detection using machine learning techn
 
 [Access the Colab Notebook Here](https://colab.research.google.com/drive/13f46r4FlgWMF5QKCkv-Y1gzRNY07fqaI?usp=sharing)
 
+## Google Slide
+[Access the Google Slide for detailed report here](https://docs.google.com/presentation/d/138V6DEz2FG1wkiLYvmfANU-SrFXSqOFLSxWC7DUJFxo/edit?usp=sharing)
+
 ## Project Structure
 
 The project is organized into the following sections:
